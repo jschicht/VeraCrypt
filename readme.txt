@@ -35,5 +35,7 @@ ExpandVolume\ExpandVolume.c
 Format\Tcformat.c
 Mount\Mount.c
 
+Download binaries
+https://github.com/jschicht/VeraCrypt/releases
 
 
